@@ -145,4 +145,8 @@ void loop(){
 ```
 ## Результат
 Как робот выполняет поставленную задачу можно увидеть на видео:
-https://github.com/OSoba-Mask/arduino-robot/assets/144365335/58f0d1ca-0d55-4d9e-92b9-d66570c875f1
+
+
+https://github.com/OSoba-Mask/arduino-robot/assets/144365335/b45d8a73-005f-4613-b31f-37760b1ba4b9
+
+
